@@ -8,7 +8,7 @@ environment faster and easier to use.
 My [dotfiles](https://github.com/juanibiapina/dotfiles) is an ongoing effort in
 productivity for the command line. I often profile my shell start up times or
 rework my vim plugins, shortcuts and aliases, almost always getting inspiration
-for other cool projects or people I've met. I also develop small tools like
+from other cool projects or people I've met. I also develop small tools like
 [jaime](https://github.com/juanibiapina/jaime) and
 [shelf](https://github.com/juanibiapina/shelf) to help with repetitive tasks.
  
