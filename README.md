@@ -13,5 +13,5 @@ from other cool projects or people I've met. I also develop small tools like
 [shelf](https://github.com/juanibiapina/shelf) to help with repetitive tasks.
  
 I'm currently working as a Principal Software Developer for
-[Babbel](www.babbel.com). My resume is openly hosted on GitHub and can be found
+[Babbel](https://www.babbel.com). My resume is openly hosted on GitHub and can be found
 [here](https://github.com/juanibiapina/resume)
