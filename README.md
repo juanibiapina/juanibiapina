@@ -9,8 +9,7 @@ My [dotfiles](https://github.com/juanibiapina/dotfiles) is an ongoing effort in
 productivity for the command line. I often profile my shell start up times or
 rework my vim plugins, shortcuts and aliases, almost always getting inspiration
 from other cool projects or people I've met. I also develop small tools like
-[jaime](https://github.com/juanibiapina/jaime) and
-[shelf](https://github.com/juanibiapina/shelf) to help with repetitive tasks.
+[sub](https://github.com/juanibiapina/sub) to help with repetitive tasks.
  
 I'm currently working as a Principal Software Developer for
 [Babbel](https://www.babbel.com). My resume is openly hosted on GitHub and can be found
