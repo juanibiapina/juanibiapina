@@ -12,6 +12,5 @@ from other cool projects or people I've met. I also develop small tools like
 
 Creator of [basher](https://github.com/basherpm/basher).
  
-I'm currently working as a Principal Software Developer for
-[Babbel](https://www.babbel.com). My resume is openly hosted on GitHub and can be found
+My CV is openly hosted on GitHub and can be found
 [here](https://github.com/juanibiapina/resume)
