@@ -13,7 +13,7 @@ I've met. I also develop small tools to help with repetitive command line tasks.
 I wish [sub](https://github.com/juanibiapina/sub) was more well known. 
 I'm so proud of that.
 I have one user.
-Thanks @awendt.
+Thanks [@awendt](https://github.com/awendt).
 
 Creator of [basher](https://github.com/basherpm/basher).
  
