@@ -16,6 +16,3 @@ I have one user.
 Thanks [@awendt](https://github.com/awendt).
 
 Creator of [basher](https://github.com/basherpm/basher).
- 
-My CV is openly hosted on GitHub and can be found
-[here](https://github.com/juanibiapina/resume)
